@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+body{
+     padding: 0%;
+     margin: 0%;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+
+/* Start wrap1 */
+
+.wrap1{
+    background-color: #74cdc3;
+}
+
+.butn1{
+    color: white;
+    background-color: #162535;
+    width: 131px;
+    height: 33px;
+    border: none;
+    border-radius: 46px;
+}
+
+#navbarNav ul li a{
+    color: white;
+    margin-right: 37px;
+
+    font-size: 16px;
+}
+
+/* Wrap1 ending */
+
+/* Wrap2 start */
+
+.reddot{
+    background: url("../img/red-dot-wr2.png");
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+/* .curbox{
+  width: 350px;
+  height: 280px;
+  background-color: rebeccapurple;
+  border: none;
+  border-radius: 20px;
+} */
+
+/* ending wrap2 */
+
+/* Wrap3 start*/
+
+.wrap3{
+    background: url("../img/wp3.png");
+
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    
+}
+
+.shopbtn{
+    text-align: center;
+    color: white;
+    background-color: #74cdc3; 
+    border: none;
+    border-radius: 60px;
+
+    width: 200px;
+    height: 50px;
+}
+/* Ending Wp3 */
+
+
+/* Wrap 6 start */
+
+.wrap6{
+    background: url("../img/wp3.png");
+
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+/* Ending  wp6 */
+
+
+/* start Wrap7 */
+
+.wrap7img{
+
+    background: url("../img/wrap7img.png");
+    border-radius: 38px;
+    height: 300px;    
+    color: white;
+
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+/* Wrap7 Ending */
+
+
+/* Footer Start */
+
+
+
+
+.footer{
+
+    background: url("../img/fbg.png");
+
+
+
+    
+
+    background-position:right;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+
+@media only screen and (max-width:767px){
+
+    .resp{
+        position: static !important;
+              
+        
+    }
+}
